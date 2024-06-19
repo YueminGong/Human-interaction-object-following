@@ -6,6 +6,6 @@ The demo and the results are referenced in the video file
 
 Environment Requirements refer to the requirements.txt
 
-Python version: 3.11
+Python version: 3.6.13
 
 Feel free to contact us with any questions ygongah@connect.ust.hk, this application is for academic purposes only, if you want to have a citation you can refer to liences.
